@@ -1,0 +1,4 @@
+3
+Agurkai        55 1.20
+Bulves         230 0.85
+Braskes        18 2.50

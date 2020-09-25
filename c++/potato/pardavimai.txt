@@ -1,0 +1,23 @@
+21
+Bulves        20 1.0
+Bulves        3 1.0
+Agurkai       4 1.50
+Braskes       5 3.0
+Braskes       3 3.0
+Agurkai       5 1.30
+Agurkai       2 1.30
+Bulves        5 0.90
+Bulves        40 0.9
+Braskes       8 2.5
+Agurkai       20 1.20
+Bulves        50 0.85
+Bulves        25 0.85
+Braskes       2 2.30
+Agurkai       10 1.20
+Bulves        20 0.80
+Agurkai       4 1.15
+Bulves        40 0.80
+Agurkai       5 1.10
+Bulves        15 0.70
+Bulves        3 0.65
+
