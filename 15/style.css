@@ -1,0 +1,149 @@
+.big-row{
+	height: 670px;
+}
+h1{
+	font-family: 'Roboto', sans-serif;
+}
+.line-box{
+	height: 11px;
+}
+.line{
+	width: 22px;
+	height: 1px;
+	background-color: rgba(108, 117, 125, 0.6);
+}
+.header{
+	background-image: url("header.png");
+	background-size: cover;
+	background-position: center;
+}
+.logo{
+	height: 30px;
+}
+.header-top{
+	height: 10%;
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+.header-middle{
+	margin-top: 140px;
+	height: 52%;
+}
+.title{
+	font-size: 42px;
+	margin-bottom: -5px;
+}
+.title-text-box{
+	width: 295px;
+}
+.title-text{
+	font-size: 13px;
+	font-weight: normal;
+}
+.mouse{
+	height: 33px;
+}
+.text-scroll{
+	font-size: 10px;
+	letter-spacing: 2px;
+}
+
+
+
+
+
+
+
+.small-row{
+	height: 380px;
+}
+.graph{
+	background-image: url("graph.png");
+	background-size: 570px;
+	background-position: center bottom;
+	background-repeat: no-repeat;
+	background-color: #eee;
+}
+.graph-text{
+	width: 190px;
+	margin-top: 19%;
+	margin-left: 45%;
+}
+.graph-text > p{
+	font-size: 10px;
+	font-weight: lighter;
+}
+.graph-text > h6{
+	font-size: 14px;
+	font-weight: normal;
+}
+.video{
+	background-color: #f8f8f8;
+}
+
+.title-text2{
+	max-width: 100%;
+	width: 250px;
+}
+.video-paragraph{
+	width: 465px;
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 2;
+}
+.video-paragraph2{
+	width: 320px;
+	font-size: 12px;
+	font-weight: lighter;
+	line-height: 2;
+}
+
+.col-3 > h6{
+	font-size: 14px;
+	font-family: 'Roboto', sans-serif;
+}
+.col-3 > p{
+	font-size: 10px;
+}
+
+.service-terms{
+	background-image: url("background2.png");
+	background-size: cover;
+	background-position: center;	
+}
+
+.table-row-1{
+	background-color: #7a225d;
+}
+.table-row-2{
+	background-color: #480048;
+}
+.table-row-3{
+	background-color: #300030;
+}
+.arrow{
+	background-color: rgba(255, 255, 255, 0.08);
+}
+
+.footer-row{
+	background-image: url("footer.png");
+	background-size: cover;
+	background-position: center;
+}
+.circle-logo{
+	margin-top: -100px;
+}
+.circle-logo-img{
+	height: 100px;
+}
+
+.footer-paragraph > p{
+	line-height: 0.5;
+}
+.form{
+	width: 500px;
+
+}
+.forms{
+    border: none;
+}
